@@ -9,3 +9,7 @@ Ce projet vise à apprendre à créer des token via une library via un tutoriel.
  - ajout du script start: "nodemon app.js" dans package.json
  - création de la page app.js
  - créer le serveur avec express dans app.js
+ - npm start dans le terminal pour lancer le serveur
+
+ ### Génèration du token 
+ - npm install jsonwebtoken
